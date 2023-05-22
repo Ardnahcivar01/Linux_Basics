@@ -1,0 +1,17 @@
+Here are some basic commands of linux.
+
+ls: List files and directories.
+cd: Change directory.
+pwd: Print working directory.
+mkdir: Create a new directory.
+rm: Remove files and directories.
+cp: Copy files and directories.
+mv: Move or rename files and directories.
+cat: Concatenate and display the contents of files.
+echo: Display text or variables.
+grep: Search for a specific pattern in files.
+chmod: Change the permissions of files and directories.
+chown: Change the ownership of files and directories.
+man: Display the manual pages of commands.
+
+Eg : 1.
